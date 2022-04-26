@@ -46,3 +46,11 @@ Port : 443
 Password : "kdlavalink"
 secure: true
 ```
+
+Hosted by [@NIHIL†⁰⁰⁸#6178](https://marshalxp.xyz)
+```bash
+Host : node08.marshalxp.xyz
+Port : 443
+password : "nihil089"
+secure : true
+```
